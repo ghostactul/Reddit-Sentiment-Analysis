@@ -1,3 +1,4 @@
-data/reddit_database.csv
 access_key.txt
 secret_key.txt
+client_id.txt
+client_secret.txt
